@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>College Issue Report</title>
+  <style>body{font-family:sans-serif;margin:2rem}.tag{background:#eee;padding:2px 6px;border-radius:8px}</style>
+</head>
+<body>
+  <h1>Wi-Fi Outage — Hostel Block A</h1>
+  <p>Date: <span class="tag">03 Sep 2025</span> | Reported by: <span class="tag">Ravi</span></p>
+  <h2>Impact</h2>
+  <ul>
+    <li>Online classes interrupted</li>
+    <li>Library portal inaccessible</li>
+    <li>Assignments upload delayed</li>
+  </ul>
+  <p><strong>Requested fix:</strong> Reset routers and deploy backup line.</p>
+  <button onclick="alert('Issue submitted to IT helpdesk!')">Submit</button>
+</body></html>
