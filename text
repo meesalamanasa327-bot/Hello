@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Thyroid Test Information</title>
+</head>
+<body>
+  <h1>Thyroid Test</h1>
+  <p>The thyroid test helps measure hormone levels to check the health of your thyroid gland.</p>
+  
+  <h2>Types of Tests</h2>
+  <ul>
+    <li>TSH (Thyroid Stimulating Hormone)</li>
+    <li>T3 (Triiodothyronine)</li>
+    <li>T4 (Thyroxine)</li>
+  </ul>
+
+  <h2>Preparation</h2>
+  <p>No special preparation is usually needed. Follow your doctor’s advice.</p>
+
+  <h2>Importance</h2>
+  <p>These tests help detect hypothyroidism, hyperthyroidism, and other thyroid disorders.</p>
+</body>
+</html>
